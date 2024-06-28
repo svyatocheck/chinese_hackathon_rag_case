@@ -1,0 +1,16 @@
+requests==2.28.1
+opensearch_py
+pdf2image
+PyJWT
+langchain
+sentence_transformers
+InstructorEmbedding
+unstructured
+langchain-community
+boto3
+fastwarc
+langchain_huggingface
+html2text
+zhon
+nltk
+bs4
